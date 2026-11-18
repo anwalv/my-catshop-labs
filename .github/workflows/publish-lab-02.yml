@@ -1,4 +1,4 @@
-name: Lab 02 - Test, Build, Publish
+﻿name: Lab 02 - Test, Build, Publish
 
 on:
   push:
