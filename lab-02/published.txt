@@ -1,0 +1,1 @@
+ghcr.io/anwalv/catshop-lab-02@sha256:1abc2c03f651d85692a3f6c9d313136236ed0896025dff34f73af225836dfde5
